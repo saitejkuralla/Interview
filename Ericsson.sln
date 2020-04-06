@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ericsson", "Ericsson\Ericsson.csproj", "{5FEFDBDD-0D3B-4827-A344-4CC9DC77AD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricssonTests", "EricssonTests\EricssonTests.csproj", "{F60C1247-38D7-4D62-9075-066E592CC1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEFDBDD-0D3B-4827-A344-4CC9DC77AD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEFDBDD-0D3B-4827-A344-4CC9DC77AD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEFDBDD-0D3B-4827-A344-4CC9DC77AD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEFDBDD-0D3B-4827-A344-4CC9DC77AD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60C1247-38D7-4D62-9075-066E592CC1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60C1247-38D7-4D62-9075-066E592CC1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60C1247-38D7-4D62-9075-066E592CC1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60C1247-38D7-4D62-9075-066E592CC1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA44434-9EE6-422F-9072-77EA6F87D0B8}
+	EndGlobalSection
+EndGlobal

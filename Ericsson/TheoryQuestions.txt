@@ -1,0 +1,18 @@
+﻿1. Difference between Object and Dynamic ?
+	Difference 1: 
+		object : compiler has little information for object type. Its not type safe
+		object a = "Bhuvan Ram"
+		string s = a; // Gives error as we need to explicit typecasting
+
+		dynamic : compiler doesnt have any information about the variable
+		dynamic a = "Bhuvan Ram"
+		string s =a; // No Error
+
+	Difference 2:
+		Object : Introduced in C# 1.0
+		dynamic : Introduced in C# 4.0
+
+	Difference 3:
+		Object : we need to the casting explicitly every time.
+		dynamic : no need of explicit casting
+		
